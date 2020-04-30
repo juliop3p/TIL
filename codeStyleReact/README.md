@@ -3,10 +3,10 @@
 1. Install ESLint as a DevDepencie.
    `yarn add eslint -D`
 
-2) Inicializar o ESLint.
+2) Init the ESLint file.
    `yarn eslint --init`
 
-<p>Config usada</p>
+<p>Config</p>
 <pre>
 ? How would you like to use ESLint? To check syntax, find problems, and enforce code style
 ? What type of modules does your project use? JavaScript modules (import/export)
